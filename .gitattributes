@@ -1,0 +1,3 @@
+# index.html is a pre-bundled, self-contained artifact — keep it byte-stable
+# (no line-ending conversion, treat as non-diffable binary blob).
+index.html -text -diff
